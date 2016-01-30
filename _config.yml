@@ -6,12 +6,12 @@ color:
     - '#708888'
     - '#306078'
     - '#000000'
-  brandStrength: 1
-  lightness: 1
-  rhythmicContrast: 0.777027
-  saturation: 1
+  brandStrength: 0
+  lightness: 0.507882
+  rhythmicContrast: 0.322072
+  saturation: 0.5259
 cta: {}
-layout_spectrum: 0.889639
+layout_spectrum: 0.333333
 name: Austin Found
 opengraph: {}
 purpose: []
