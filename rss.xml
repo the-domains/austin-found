@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Austin Found]]></title>
         <description><![CDATA[Austin Found]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/austin-found/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 18:48:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 18:49:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/austin-found/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Harmonious Design - Consumers see lush surroundings incorporated into structural design]]></title>
+            <description><![CDATA[<article><h1>Harmonious Design - Consumers see lush surroundings incorporated into structural design</h1><p>Harmonious Design - Consumers see lush surroundings incorporated into structural design - TREND HUNTER PRO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73f9f042d0add54c3d1953b7565c7e7fb27110a9.jpg"></article>]]></description>
+            <link>http://www.trendhunter.com/protrends/harmonious-foundation</link>
+            <guid isPermaLink="false">8e23ab55-272f-4f6d-bd58-df9c860d37fe</guid>
+            <pubDate>Sat, 30 Jan 2016 18:48:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Illuminating Speaker Cubes : speaker cube]]></title>
             <description><![CDATA[<article><h1>Illuminating Speaker Cubes : speaker cube</h1><p>Tech Tech Everywhere</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0e9c8fe1956250355b9f3ba92e9761811b0660a.jpg"></article>]]></description>
