@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Austin Found]]></title>
+        <description><![CDATA[Austin Found]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 18:48:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Illuminating Speaker Cubes : speaker cube]]></title>
+            <description><![CDATA[<article><h1>Illuminating Speaker Cubes : speaker cube</h1><p>Tech Tech Everywhere</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0e9c8fe1956250355b9f3ba92e9761811b0660a.jpg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/speaker-cube</link>
+            <guid isPermaLink="false">bf8775fa-f7db-402b-b1ab-85baa5e259f2</guid>
+            <pubDate>Sat, 30 Jan 2016 18:48:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
