@@ -6,9 +6,9 @@ color:
     - '#eab92e'
     - '#8286b3'
     - '#fdfdfb'
-  brandStrength: 0
-  lightness: 1
-  rhythmicContrast: 0.712837
+  brandStrength: 0.31081
+  lightness: 0.605855
+  rhythmicContrast: 0.266891
   saturation: 0.889639
 cta: {}
 layout_spectrum: 0.889639
