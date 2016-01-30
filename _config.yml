@@ -1,19 +1,4 @@
-name: Austin Found
-favicon: null
-layout_spectrum: 0.26468
-typography_spectrum: 0.31259
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ff751a'
@@ -21,8 +6,13 @@ color:
     - '#eab92e'
     - '#8286b3'
     - '#fdfdfb'
-  brandStrength: 0.625
-  lightness: 1
+  brandStrength: 0
+  lightness: 0.515765
+  rhythmicContrast: 1
   saturation: 0
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.26468
+name: Austin Found
+opengraph: {}
 purpose: []
+typography_spectrum: 0.31259
