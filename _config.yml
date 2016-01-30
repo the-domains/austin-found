@@ -1,18 +1,28 @@
-analytics: {}
+name: Austin Found
+favicon: null
+layout_spectrum: 0.51038
+typography_spectrum: 0.38001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#6F1A16'
-    - '#808090'
-    - '#D84038'
-    - '#80D090'
-  brandStrength: 0.329954
+    - '#ffffff'
+    - '#dd0126'
+    - '#00949c'
+    - '#240203'
+    - '#ff9998'
+  brandStrength: 0.1875
   lightness: 0.688063
-  rhythmicContrast: 0.120495
   saturation: 0.835585
-cta: {}
-layout_spectrum: 0.333333
-name: Austin Found
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.31259
