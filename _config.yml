@@ -7,8 +7,8 @@ color:
     - '#8286b3'
     - '#fdfdfb'
   brandStrength: 0
-  lightness: 0.515765
-  rhythmicContrast: 1
+  lightness: 0
+  rhythmicContrast: 0
   saturation: 0
 cta: {}
 layout_spectrum: 0.894144
