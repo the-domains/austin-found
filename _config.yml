@@ -6,10 +6,10 @@ color:
     - '#eab92e'
     - '#8286b3'
     - '#fdfdfb'
-  brandStrength: 0.31081
-  lightness: 0.605855
-  rhythmicContrast: 0.266891
-  saturation: 0.889639
+  brandStrength: 1
+  lightness: 1
+  rhythmicContrast: 0.777027
+  saturation: 1
 cta: {}
 layout_spectrum: 0.889639
 name: Austin Found
