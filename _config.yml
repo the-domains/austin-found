@@ -1,5 +1,15 @@
+name: AUSTIN FOUND
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94bb3451-2a57-4273-8fa1-0335334d3d72.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/34efd172-fe79-4e0e-91fe-2ec7e836f70b.jpg
 layout_spectrum: 0.9522936372086406
 typography_spectrum: 0.8535527375061065
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#225378'
@@ -11,22 +21,11 @@ color:
   lightness: 0.9216887736693025
   saturation: 0.02201916603371501
   rhythmicContrast: 0.24591629905626178
-coverPrefs:
-  filter: false
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Austin Found
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: We Do the Work
-description: Design Discover Deliver
 purpose: []
+title: We Do the Work
+author:
+  name: Austin Found
+  url: www.austinfoundit.com
+  email: info@austinfoundit.com
+content_rating:
+  adult: false
